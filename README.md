@@ -1,2 +1,2 @@
-# Reposit-rio-DIO-Gera-o-Tech-Unimed-BH-Ci-ncia-de-Dados
+# Reposit-rio-DIO-Geração-Tech-Unimed-BH-Ciência-de-Dados
 Repositório Usando para o Bootcamp Geração Tech Unimed-BH - Ciência de Dados
